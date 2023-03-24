@@ -1,4 +1,5 @@
 The codes are presented as a jupyter notebook, and the data are in a CSV file. 
+Two different codes and CSV files are used separately for Dataset No.1 and Dataset No.2
 
 The corrosion data are obtained from the following reference:
-" B.D. Craig, D.B. Anderson, Lactic Acid, in: Handbook of Corrosion Data (2nd Edition), ASM International, n.d.: pp. 488–492" which can be found in the following link: in https://www.asminternational.org/search/-/journal_content/56/10192/06407G/PUBLICATION
+" Thyssen Edelstahlwerke AG, Chemical resistance of the stainless REMANIT steel, 1992" provided by national library of Germany
